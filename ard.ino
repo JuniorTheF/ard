@@ -5,7 +5,7 @@ const int buttonPin = 3;              //Button pin number
 
 // Variables will change:
 int ledState = LOW;             // ledState used to set the LED
-int buttonState;                //Button state
+int buttonState;                // For 1 or 0 state
 
 unsigned long previousMillis = 0;        // will store last time LED was updated
 
